@@ -49,4 +49,4 @@ If necessary, **migrate the database** and set up any required environment varia
 
 ## Good luck!
 
-Once everything is set up, you should be ready to run the project smoothly! 😊 Feel free to reach out if you run into any issues!
+Once everything is set up, you should be ready to run the project smoothly! Feel free to reach out if you run into any issues!
